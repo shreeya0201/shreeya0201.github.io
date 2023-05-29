@@ -1,1 +1,1 @@
-alert("Loading,please wait");
+console.log("Loading,please wait");
