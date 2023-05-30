@@ -8,3 +8,12 @@ table {
     color:black;
   }
   
+  body {
+    background-image: url('C:\Users\SHREEYA\OneDrive\Documents\bz.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+
+  
