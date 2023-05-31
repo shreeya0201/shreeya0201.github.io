@@ -7,8 +7,8 @@ table,th,td{
 table {
     color:black;
   }
-  td {
-    background-color: yellow;
+  th {
+    background-color: #ffff00ad;
   }
 
   
