@@ -12,7 +12,7 @@ table {
   }
   
   .gradient-heading {
-    background: linear-gradient(to right, #ff7f50, #ff4f74);
+    background: linear-gradient(to right, #2c0eb5, #ff4f74);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
