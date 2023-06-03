@@ -11,13 +11,14 @@ table {
     background-color: #ffff00ad;
   }
   
-  .gradient-heading {
-    background: linear-gradient(to right, #2c0eb5, #ff4f74);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+  .shadow-heading {
+    text-shadow: 2px 2px 4px rgba(218, 10, 10, 0.5);
+    padding-left: 120px; 
   }
-      
 
+
+
+  
   
 
   
