@@ -10,9 +10,7 @@ table {
   th {
     background-color: #ffff00ad;
   }
-  h1 {
-    text-align: center;
-  }
+  
   .gradient-heading {
     background: linear-gradient(
       to right, 
